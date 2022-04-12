@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.news {
+    width: 630px;
+    margin: 20px;
+    border: 1px solid #e4d6d6;
+}
+.news img {
+    width: 100%;
+}
+.news h2, .news p {
+    padding: 10px;
+    
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.bg-color{
+    color: rgb(207, 194, 194);
+    background: grey;
+}
+.mt-20 {
+    margin-top: 20px;
+}
